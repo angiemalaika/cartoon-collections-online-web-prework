@@ -27,3 +27,7 @@ def find_the_cheese(cheesy_items)
     cheeses.include?(maybe_cheese)
   end
 end
+<<<<<<< HEAD
+=======
+
+>>>>>>> 886a87f7b69f418b25d9f6c2967b9ab60df7c0ca
